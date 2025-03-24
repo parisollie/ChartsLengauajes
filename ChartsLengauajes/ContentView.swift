@@ -3,7 +3,7 @@
 //  ChartsLengauajes
 //
 //  Created by Paul F on 23/03/25.
-//
+//  Actualizado
 
 import SwiftUI
 import Charts
@@ -67,7 +67,7 @@ struct ContentView: View {
                     .font(.headline)
                     .padding()
             }
-        }
+        }//FinalV
     }
 }
 
